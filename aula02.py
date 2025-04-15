@@ -20,3 +20,6 @@ print(y//z)
 
 #Resto da divisão
 print(10%3)
+
+#potencia 
+print(7**2)
